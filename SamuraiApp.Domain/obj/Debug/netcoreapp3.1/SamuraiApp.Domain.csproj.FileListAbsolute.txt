@@ -1,0 +1,10 @@
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.deps.json
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.dll
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.pdb
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\obj\Debug\netcoreapp3.1\SamuraiApp.Domain.csproj.AssemblyReference.cache
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\obj\Debug\netcoreapp3.1\SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\obj\Debug\netcoreapp3.1\SamuraiApp.Domain.AssemblyInfoInputs.cache
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\obj\Debug\netcoreapp3.1\SamuraiApp.Domain.AssemblyInfo.cs
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\obj\Debug\netcoreapp3.1\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\obj\Debug\netcoreapp3.1\SamuraiApp.Domain.dll
+D:\WorkingProjects\LearnNetCoreWithEF3p1\SamuraiApp.Domain\obj\Debug\netcoreapp3.1\SamuraiApp.Domain.pdb
