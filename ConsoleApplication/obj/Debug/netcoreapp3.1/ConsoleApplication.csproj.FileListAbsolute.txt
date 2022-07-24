@@ -57,3 +57,4 @@ D:\WorkingProjects\LearnNetCoreWithEF3p1\ConsoleApplication\obj\Debug\netcoreapp
 D:\WorkingProjects\LearnNetCoreWithEF3p1\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
 D:\WorkingProjects\LearnNetCoreWithEF3p1\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
 D:\WorkingProjects\LearnNetCoreWithEF3p1\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache
+D:\WorkingProjects\LearnNetCoreWithEF3p1\ConsoleApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

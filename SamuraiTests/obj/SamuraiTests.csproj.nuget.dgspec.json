@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj": {}
+    "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj": {}
   },
   "projects": {
-    "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj": {
+    "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj",
+        "projectUniqueName": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj",
         "projectName": "SamuraiTests",
-        "projectPath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj",
+        "projectPath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj",
         "packagesPath": "C:\\Users\\PrabathB\\.nuget\\packages\\",
-        "outputPath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\obj\\",
+        "outputPath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

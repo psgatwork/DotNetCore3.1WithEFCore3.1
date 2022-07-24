@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ekTXmKx/lspg/yEzB7IhaWRtFjePyxb4iWPvCUrMmBj/fUBAX+nwRpmIo65/jJBG4owIPHVJsO2PtnOzwKpew==",
+  "dgSpecHash": "6ybqxrXjd0mpERyUooHuK99vCwGJCMKcp8SiEAcfaT4WveMo+bjcYgOpZfw+rH+O1PkFtL7mysVaESDzT8bygQ==",
   "success": true,
-  "projectFilePath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "projectFilePath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

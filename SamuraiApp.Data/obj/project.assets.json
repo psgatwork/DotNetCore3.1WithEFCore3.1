@@ -5618,11 +5618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+      "projectUniqueName": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
       "projectName": "SamuraiApp.Data",
-      "projectPath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+      "projectPath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
       "packagesPath": "C:\\Users\\PrabathB\\.nuget\\packages\\",
-      "outputPath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Data\\obj\\",
+      "outputPath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5642,8 +5642,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
-              "projectPath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+            "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+              "projectPath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
             }
           }
         }

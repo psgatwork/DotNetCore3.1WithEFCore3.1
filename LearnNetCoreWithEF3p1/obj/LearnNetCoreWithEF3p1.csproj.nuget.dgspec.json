@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj": {}
+    "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj": {}
   },
   "projects": {
-    "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj": {
+    "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj",
+        "projectUniqueName": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj",
         "projectName": "LearnNetCoreWithEF3p1",
-        "projectPath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj",
+        "projectPath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1.csproj",
         "packagesPath": "C:\\Users\\PrabathB\\.nuget\\packages\\",
-        "outputPath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\obj\\",
+        "outputPath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\LearnNetCoreWithEF3p1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

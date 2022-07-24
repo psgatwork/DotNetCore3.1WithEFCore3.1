@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ZvKExfXKuJK8Ah4jDXF3Q2N6SKFOh2rQVGA7Zsjvoc6m2aaJmF0LCBRzErzHkoGcwpSpPmeYWitJRAT+CbnDw==",
+  "dgSpecHash": "tY8o1WTuKvlcAuk9TaEoGgvvkpwmqwWGvK65PDSWXQJ6DoZEbI04XOe/FJGX6mdSa+vpeCadXmRn+wG+omChGQ==",
   "success": true,
-  "projectFilePath": "d:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj",
+  "projectFilePath": "D:\\WorkingProjects\\LearnNetCoreWithEF3p1\\SamuraiTests\\SamuraiTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PrabathB\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\PrabathB\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
